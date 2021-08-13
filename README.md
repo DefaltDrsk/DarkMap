@@ -10,7 +10,7 @@ install in Kali and parrot
 
 git clone https://github.com/vaxnoo2/DarkMap.git
 
-chmod +x darkmap2.py
+chmod +x DarkMap.py
 
 
 Use python3 DarkMap.py
